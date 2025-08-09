@@ -1,2 +1,5 @@
-# Pohang University of Science and Technology, POSTECH
-## Major: Physics and Mathematics
+# Dohyun Kwon
+## Education
+Pohang University of Science and Technology (POSTECH)
+Feb 2024 - Present | Pohang, Republic of Korea
+Major: Physics and Mathematics
