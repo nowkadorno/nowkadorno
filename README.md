@@ -1,2 +1,2 @@
-## Physics Student
-# POSTECH, Majoring in Physics
+# Pohang University of Science and Technology, POSTECH
+## Major: Physics and Mathematics
